@@ -22,7 +22,7 @@ function Foreground() {
           },
           {
     
-            desc:"Lorem ipsum bro do something ..",
+            desc:"You can drag this and you can also hit them on side screen",
             filesize:".9mb",
             close:false,
             tag:{isOpen: false,tagTitle:"Download Now",tagColor:"green"}
